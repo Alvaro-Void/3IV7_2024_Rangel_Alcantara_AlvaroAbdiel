@@ -1,0 +1,30 @@
+import math
+
+numero=int( input("Ingresar un numero en decimal: ") )
+binario=""
+
+if numero==0 :
+    binario="0"
+
+while numero > 0:
+    sobrante=numero%2
+    nbinario=str(sobrante)
+
+    binario= nbinario+binario
+    numero= numero//2
+
+print("Su conversion a binario es: ", binario)
+
+
+numero2= int(input("Ingresar un numero en binario: "))
+decimal=0
+N=0
+
+while numero2>0:
+    residuo=numero2%10
+    ndecimal=residuo*(2**N)
+    decimal=decimal+ndecimal
+    N=N+1
+    numero2=numero2//10
+
+print("Su conversion a decimal es: ", decimal)
