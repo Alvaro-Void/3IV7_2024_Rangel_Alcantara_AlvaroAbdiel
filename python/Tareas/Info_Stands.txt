@@ -1,0 +1,31 @@
+nombre,usuario,poder,velocidad,rango,durabilidad,presicion,potencial
+Magicians Red,Muhammad Avdol,B,B,C,B,C,D
+High Priestess ,Middler,C,B,A,A,D,D
+Empress ,Nena ,C,E,A,A,D,D
+Emperor,Hol Horse,B,B,B,C,E,E
+Hierophan Green,Noriaki Kakyoin,C,B,A,B,C,D
+Lovers,Steely Dan,E,D,A,A,D,E
+Silver Chariot,Jean Pierre Polnaref,C,A,C,B,B,C
+Justice,Enya Geil,D,E,A,A,E,E
+Hermit Purple,Joseph Joestar,D,C,D,A,D,E
+Wheel of Fortune,ZZ,B,D,D,A,E,D
+Strength,Forever,B,D,D,A,E,E
+Hanged Man,J Geil,C,A,A,B,D,D
+Death Thirteen,Mannish Boy,C,C,E,B,D,
+Yellow Temperance,Rubber Soul,D,C,E,A,E,D
+Ebony Devil,Devo,D,D,A,B,D,B
+Tower of Gray,Gray Fly,E,A,A,C,E,E
+Star Platinum,Jotaro Kujo,A,A,C,A,A,A
+Dark Blue Moon, Captain Tennille Impostor,C,C,C,B,C,D
+Sun,Arabia Fats,B,E,A,A,E,E
+Judgement,Cameo,B,B,C,B,D,D
+The World,Dio Brando,A,A,C,A,B,B
+The Fool,Iggy,B,C,D,C,D,C
+Horus,Pet Shop,B,B,D,C,C,E
+Cream,Vanilla Ice,B,B,D,C,C,D
+Sethan,Alessi,D,D,E,C,D,D
+Anubis,Caravan Serai,B,B,E,A,E,C
+Bastet,Maria,E,E,A,E,E,E
+Atum,Telence T. D'Arby,D,C,D,B,D,D
+Osiris,Daniel J. D'Arby,E,D,D,C,D,D
+Tohth,Boingo,E,E,E,A,E,E
